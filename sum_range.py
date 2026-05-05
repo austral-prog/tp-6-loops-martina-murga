@@ -24,7 +24,6 @@ def sum_evens(n):
         answer = answer + i
     return answer
 
-
 def factorial(n):
     """
     Retorna el factorial de n (n!).
